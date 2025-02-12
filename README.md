@@ -68,28 +68,3 @@ operations. It provides the following functionalities:
     Clearing all logs.
     Retrieving logs within a specified timestamp range.
 
-Team Members:
-
-    Swaroop A Ram Rayala - IMT2022587
-    K S V Rohit - IMT2022576
-    Mupparapu Koushik - IMT2022570
-    A Nishith - IMT2022556
-    Sreyas J - IMT2022554
-    Rajanala Sai Dheeraj - IMT2022093
-    
-    
-
-Contributions:
-
-    Brightness - Sreyas
-    Contrast - Swaroop
-    Dominant Colour - Swaroop
-    Flip - Dheeraj
-    Gaussian Blur - Koushik
-    Grayscale - Sreyas
-    Hue and Satuation Effect - Rohit
-    Invert - Nishith
-    Rotation - Dheeraj
-    Sepia - Nishith
-    Sharpen - Koushik
-    Logging Service - Rohit
